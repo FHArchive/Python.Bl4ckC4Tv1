@@ -13,7 +13,7 @@
 
 # Python.Bl4ckC4Tv1
 
-<img src="readme-assets/icons/proj-icon.png" alt="Project Icon" width="100">
+<img src="readme-assets/icons/name.png" alt="Project Icon" width="750">
 
 The original OTP program that I made in Python (uses tKinter)
 
